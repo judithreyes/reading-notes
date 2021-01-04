@@ -17,4 +17,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 3. When you are faced with an obstacle, stay focused and persist through it.
 
 ### Table of Contents
-[
+[Markdown reading](markdown.md)
+
