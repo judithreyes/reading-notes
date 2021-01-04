@@ -10,6 +10,6 @@ My GitHub profile is at https://github.com/judithreyes
 
 ### Growth Mindset
 How to stay in a growth mindset. Here are my 3 examples.
-+ One
-+ Two
-+ Three
+1. One
+2. Two
+3. Three
