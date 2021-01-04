@@ -15,3 +15,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 1. Work through challenges and embrace them instead of avoiding them or giving up easily.
 2. When you are given criticism or constructive feedback, learn and grow from it instead of ignoring it.
 3. When you are faced with an obstacle, stay focused and persist through it.
+
+### Table of Contents
+[
