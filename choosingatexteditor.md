@@ -21,7 +21,7 @@ Some code completion includes:
 - closing brackets when you open them
 - closing quotation marks when you open them
 
-Emmet is a feature that will also help speed up your code writing. Some text editors come with Emmet built in or it can be added later on. 
+Emmet is a feature that will also help speed up your code writing. Some text editors come with Emmet built-in or it can be added later on. 
 
 ### Syntax highlighting
 
@@ -48,4 +48,4 @@ Now that you know know what features are important in a text editor, you can do 
 
 ### Differences between text editors and IDE
 
-While a text editor edits and manages text, an IDE (Integrated Development Environment) is a text editor, file manager, compiler and a debugger all in one. It is similar to Microsoft Outlook in a sense that it does many things for you all in one program. An IDE is typically used when you are more experienced. 
+While a text editor edits and manages text, an IDE (Integrated Development Environment) is a text editor, file manager, compiler, and a debugger all in one. It is similar to Microsoft Outlook in the sense that it does many things for you all in one program. An IDE is typically used when you are more experienced. 
