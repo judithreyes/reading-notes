@@ -18,3 +18,4 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 ### Table of Contents
 [Mastering Markdown](masteringmarkdown.md)
+[Choosing A Text Editor](choosingatexteditor.md)
