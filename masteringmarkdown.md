@@ -14,13 +14,13 @@ Markdown is a way to style text on the web. Markdown is regular text along with 
 - Create lists by using numbers, bullet points, dashes, etc.
 
 ### Examples of Markdown syntax
-- Headers
+### Headers
 You use a # to create a header and you use ## for the next header below and so on. 
 
-- Emphasis
+### Emphasis
 Text can become *italicized* by placing one *before and after the word*. Text can become **bold** by placing two **before and after the word**. 
 
-- Lists
+### Lists
 You are able to make lists as well that are ordered or unordered. 
 
 Unordered list example:
