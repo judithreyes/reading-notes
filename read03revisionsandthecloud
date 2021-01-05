@@ -27,4 +27,4 @@ online or on a VPN. All changes made to a file or directory is tracked by Git. G
 2. Modified-a file can be changed but not committed to the database
 3. Staged-flagged a file's changed version to be committed in the next snapshot
 
-
+### History of Git
