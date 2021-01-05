@@ -21,3 +21,5 @@ How to stay in a growth mindset through 3 examples:
 [Mastering Markdown](masteringmarkdown.md)
 
 [Choosing A Text Editor](choosingatexteditor.md)
+
+[Intro to Git](read03revisionsandthecloud.md)
