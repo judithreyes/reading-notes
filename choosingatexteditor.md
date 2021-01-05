@@ -15,6 +15,7 @@ Choosing a text editor that works for you is important for any web developer.
 
 Code completion allows you to start typing a code, then the feature will display possible suggestions to help you finish your code based on what you typed. 
 This saves you time by providing a choice. 
+
 Some code completion includes:
 - closing of tags when you open them
 - closing brackets when you open them
