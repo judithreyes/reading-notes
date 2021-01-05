@@ -19,4 +19,5 @@ How to stay in a growth mindset through 3 examples:
 
 ### Table of Contents
 [Mastering Markdown](masteringmarkdown.md)
+
 [Choosing A Text Editor](choosingatexteditor.md)
