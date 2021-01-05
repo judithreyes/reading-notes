@@ -31,4 +31,4 @@ Ordered list example:
 1. Item 1
 2. Item 2
 
-With Markdown, you will also be able to place images, links, task lists, tables, SHA references, strikethrough effects, username @mentions, emojis, and block quotes in your text. This is a short explaination of mastering markdown. I hope you were able to learn new things and are able to use Markdown one day!
+With Markdown, you will also be able to place images, links, task lists, tables, SHA references, strikethrough effects, username @mentions, emojis, and block quotes in your text. This is a short explanation of mastering markdown. I hope you were able to learn new things and are able to use Markdown one day!
