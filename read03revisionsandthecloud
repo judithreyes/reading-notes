@@ -1,0 +1,21 @@
+# Intro to Git
+
+## Version Control (VCS)
+
+Version Control is a system that allows you to revisit various versions of a file, or set of files, by recording changes. With version control,
+you can change a file back to a previous version, track modifications and compare any changes. 
+
+### Centralized Version Control System (CVCS)
+
+This is a server that stores all changes and file versions, which then can be accessed by different users. 
+This allows programmers to keep tabs on what their team is working on.
+
+### Distributed Version Control System (DVCS) 
+
+The DVCS addresses some issues with the CVS. For example, if CVS goes down, team members can't work with each other on a file or make new edits to it. 
+If there is no backup, all the work will be lost, unless it's saved on a local machine. To prevent this from happening, a DVCS lets clients create mirrored repositories.
+
+### What is Git?
+
+Git is comprised of snapshots. It is a DVCS that stores data in a file system made up of snapshots. When you save your project, called commit, Git creates a snapshot 
+of the file and stores a reference to it. 
