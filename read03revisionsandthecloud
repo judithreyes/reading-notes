@@ -18,4 +18,13 @@ If there is no backup, all the work will be lost, unless it's saved on a local m
 ### What is Git?
 
 Git is comprised of snapshots. It is a DVCS that stores data in a file system made up of snapshots. When you save your project, called commit, Git creates a snapshot 
-of the file and stores a reference to it. 
+of the file and stores a reference to it. Git usually relies on local operations found in local resources. This lets you continue working on a project even when you're not 
+online or on a VPN. All changes made to a file or directory is tracked by Git. Git will also detect file corruption or any loss of information. 
+
+### Files in Git come in 3 states: committed, modified, and staged.
+
+1. Committed-data is securely stored in a local database
+2. Modified-a file can be changed but not committed to the database
+3. Staged-flagged a file's changed version to be committed in the next snapshot
+
+
