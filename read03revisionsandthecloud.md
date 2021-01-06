@@ -30,6 +30,31 @@ online or on a VPN. All changes made to a file or directory is tracked by Git. G
 ### History of Git
 
 Git started with a project called Linux kernel, which was an open source project.
-Developers used a DVCS called Bitkeeper in 2002 then stopped using it in 2005. 
-The creator of Linux Kernel, Linus Torvalds, also created Git and Git has
-been widely used since 2005. 
+Developers used a DVCS called Bitkeeper in 2002. The creator of Linux Kernel, Linus Torvalds, also created Git and Git has been widely used since 2005. 
+Git comes with Graphical User Interface(GUI) tools.
+
+### Cloning
+
+You can clone, or create a copy, of a Git repository by using the clone command
+with your repository's URL. When you clone a file, you have all the versions.
+A local Git repository has three components:
+
+1. Working Directory: The files reside here
+2. Index: THe area used for staging
+3. Head: Points to the most recent commit 
+
+### Saving Changes 
+
+All files that are in a project file are either in a track or untracked state.
+Tracked files can be modified, unmodieifed or staged. Untracked files weren't
+in the last snapshot. After you edit a file, Git marks it as modified. 
+After you modify a file, you'll need to commit the changes. Then you can
+check the status with 'git status'. 
+
+### ACP
+
+To get a repository onto your computer, you use ACP(add, commit, push).
+* To add a single file: git add filename
+* To add all files in a repository: git add *
+* To commit a file: git commit -m "your file description"
+* To push a file: git push origin main 
