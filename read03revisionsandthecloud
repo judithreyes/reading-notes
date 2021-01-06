@@ -30,9 +30,8 @@ online or on a VPN. All changes made to a file or directory is tracked by Git. G
 ### History of Git
 
 Git started with a project called Linux kernel, which was an open source project.
-Developers used a DVCS called Bitkeeper in 2002 then stopped using it in 2005. 
-The creator of Linux Kernel, Linus Torvalds, also created Git and Git has
-been widely used since 2005. Git comes with Graphical User Interface(GUI) tools.
+Developers used a DVCS called Bitkeeper in 2002. The creator of Linux Kernel, Linus Torvalds, also created Git and Git has been widely used since 2005. 
+Git comes with Graphical User Interface(GUI) tools.
 
 ### Cloning
 
