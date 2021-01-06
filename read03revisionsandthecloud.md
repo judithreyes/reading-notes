@@ -54,7 +54,7 @@ check the status with 'git status'.
 ### ACP
 
 To get a repository onto your computer, you use ACP(add, commit, push).
-To add a single file: git add filename
-To add all files in a repository: git add *
-To commit a file: git commit -m "your file description"
-To push a file: git push origin main 
+* To add a single file: git add filename
+* To add all files in a repository: git add *
+* To commit a file: git commit -m "your file description"
+* To push a file: git push origin main 
