@@ -46,15 +46,13 @@ To be successful with HTML, it is helpful to learn different tags and what they 
 
 ## HTML5 Layout Elements
 
-Elements in the HTML5 layout differ in some ways from <div> elements. For example, the header sits in a 
-new <header> element. The <header> and <footer> can be used in different ways. 
-Each <article> and <section> element can have its own <header> and <footer>.
-These new elements make it so web creators can use them to describe the structure of the page.
+Elements in the HTML5 layout differ in some ways from < div > elements. For example, the header sits in a 
+new < header > element. The < header > and < footer > can be used in different ways. Each < article > and < section > element can have its own < header > and < footer >. These new elements make it so web creators can use them to describe the structure of the page.
 
-### Figures <figure> <figcaption>
+### Figures < figure > < figcaption >
 
-The <figure> element should have a <figcaption> element, which provides an explanation of the <figure> element. 
-Some examples of when to use <figure>:
+The < figure > element should have a < figcaption > element, which provides an explanation of the < figure > element. 
+Some examples of when to use < figure >:
 
 * Images
 * Videos
