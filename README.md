@@ -25,3 +25,6 @@ How to stay in a growth mindset through 3 examples:
 [Intro to Git](read03revisionsandthecloud.md)
 
 [HTML Chapter Notes](read04HTML.md) 
+
+[CSS Chapter Notes](read05CSScolor.md)
+
