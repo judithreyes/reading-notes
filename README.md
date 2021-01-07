@@ -28,3 +28,4 @@ How to stay in a growth mindset through 3 examples:
 
 [CSS Chapter Notes](read05CSScolor.md)
 
+[How Computers Work Notes](read06howcomputerswork.md)
