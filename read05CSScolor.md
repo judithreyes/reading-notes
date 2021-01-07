@@ -10,7 +10,7 @@ A CSS rule contains two parts:
 
 2. Declaration-this tells you how the element should be styled. Declarations are split intwo two parts, a property and a value. 
 
-### Propeties and Values
+### Properties and Values
 
 Properties indicate the aspects of the element you want to change, such as color, font, width, height, and border. Values indicate the settings that you want to use for a property. A property and value are separated by a semi-colon. 
 
