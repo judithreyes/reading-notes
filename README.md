@@ -30,4 +30,6 @@ How to stay in a growth mindset through 3 examples:
 
 [How Computers Work Notes](read06howcomputerswork.md)
 
+[Programming with JavaScript Notes](read07programmingwithjs.md)
+
 [Operator/Loop Notes](read08operatorsloops.md)
